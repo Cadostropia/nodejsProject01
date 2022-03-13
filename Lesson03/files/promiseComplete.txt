@@ -1,0 +1,4 @@
+This is starter.txt my friend.
+My name is CODE.
+
+Hello my friendo append file is HERE
