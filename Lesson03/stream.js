@@ -6,6 +6,7 @@ const rs = fs.createReadStream(
 //making a reading stream
 //fs module which allows to quickly make a writable stream for the purpose of writing data to a file
 // better at very large amounts of data than fs.writeFile
+
 const ws = fs.createWriteStream(
     path.join(__dirname, 'files', 'new-lorem.txt'),{encoding: 'utf8'});
 //making a writing stream
